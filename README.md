@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width=100>
+  <br><br>
+  <samp>
+    🌱🌱🌱
+  </samp>
+</p>
